@@ -1,0 +1,10 @@
+@font-face {
+    font-family: SnaredrumZeroNbp;
+    src: url('../font/SnaredrumZeroNbp.ttf');
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
